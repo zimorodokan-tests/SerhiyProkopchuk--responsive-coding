@@ -3,4 +3,4 @@
 Design
 <https://www.figma.com/file/Fqz8TmXRb36MilQKethMVs/Business-Marketing-Kit-Design-Concept-3-(Copy)?node-id=0%3A1>
 
-<https://sp1.proridne.com/>
+https://github.com/zimorodokan-tests/SerhiyProkopchuk--responsive-coding
